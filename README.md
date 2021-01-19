@@ -2,7 +2,7 @@
 
 An php interface for publishing microblogposts to your selfhosted [twtxt.txt](https://github.com/buckket/twtxt)
 
-![Screenshot](Screenshot.png)
+![Screenshot](screenshot.png)
 
 ## Setup and use
 
