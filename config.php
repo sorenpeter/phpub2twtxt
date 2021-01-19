@@ -1,10 +1,9 @@
 <?php
-// sp@darch.dk 2020-01-19
 
 // Name (and path) of you twtxt.txt file
 $txt_file = '../twtxt.txt'; 
 
-$new_post = filter_input(INPUT_POST, 'new_post', FILTER_SANITIZE_SPECIAL_CHARS);
+$new_post = filter_input(INPUT_POST, 'new_post');
 
 if($new_post) {
     $contents = file_get_contents($txt_file);
