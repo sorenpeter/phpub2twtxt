@@ -2,6 +2,8 @@
 
 An php interface for publishing microblogposts to your selfhosted [twtxt.txt](https://github.com/buckket/twtxt)
 
+![Screenshot](Screenshot.png)
+
 ## Setup and use
 
 1. Upload the files to you webserver via ftp
