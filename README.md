@@ -20,16 +20,21 @@ An php interface for publishing microblogposts to your selfhosted [twtxt.txt](ht
 
 5. If you want/need to edit or delete you posts then you need to log in via ftp and just edit your text file.
 
+## WARNING!
+**There is no build-in access control, so whoever know the URL of where you uploade these files will have the power to post as you to your twtxt.txt-file!!!!**
+**Use of this software is totally at one's own risk!!!**
+
 ## Issues
+
+* Security / login
+	- [ ] using access restriction to the folder via cPanel
+	- [ ] integrat it into yellow cms
+	- [ ] using some (other) .htaccess or .htpasswd magic
 
 * Missing line break depending on how the file was left the last time
 	- [x] add the line break as the first thing
-	- [] check for line breaks at EOF before writing
+	- [ ] check for line breaks at EOF before writing
 
-* Security / login
-	- [/] using access restriction to the folder via cPanel
-	- [] integrat it into yellow cms
-	- [] using some (other) .htaccess or .htpasswd magic
 
 ## Ideas
 
