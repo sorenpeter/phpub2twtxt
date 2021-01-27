@@ -53,6 +53,7 @@ An php interface for publishing microblogposts to your selfhosted [twtxt.txt](ht
 * Make a gif like: https://raw.githubusercontent.com/gabrieldejesus/register-with-txt/master/web-preview.gif
 	
 * Integrate with a nice render of twtxt
+	- https://github.com/hxii/picoblog
 	- https://github.com/schulle4u/yellow-extensions-schulle4u/tree/master/ticker
 	- https://github.com/Zegnat/site-notxte
 	- https://github.com/my5t3ry/twi
