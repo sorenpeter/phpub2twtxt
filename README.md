@@ -1,6 +1,6 @@
 # phpub2twtxt
 
-An php interface for publishing microblogposts to your selfhosted [twtxt.txt](https://github.com/buckket/twtxt)
+A php interface for publishing microblogposts to your selfhosted [twtxt.txt](https://github.com/buckket/twtxt)
 
 ![Screenshot](screenshot.png)
 
